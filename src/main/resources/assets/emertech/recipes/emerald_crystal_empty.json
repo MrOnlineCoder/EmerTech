@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    " G ",
+    "GDG",
+    " G "
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "D": {
+      "item": "emertech:emerald_dust"
+    }
+  },
+  "result": {
+    "item": "emertech:emerald_crystal_empty"
+  }
+}

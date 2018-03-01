@@ -1,0 +1,10 @@
+itemGroup.emertech=Emerald Technologies
+tile.emerald_accumulator.name=EmerTech Accumulator
+item.emerald_dust.name=Emerald Dust
+item.emerald_crystal_empty.name=Empty Emerald Crystal
+item.emerald_crystal_full.name=Charged Emerald Crystal
+tile.emerald_transformer.name=EmerTech Transformer
+item.diamond_piece.name=Piece of Diamond
+item.lower_ore_storage.name=Lower Ore Storage
+item.higher_ore_storage.name=Higher Ore Storage
+tile.emerald_ore_container.name=EmerTech Ore Container

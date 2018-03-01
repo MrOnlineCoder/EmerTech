@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "emertech:blocks/machine_side",
+    "up": "emertech:blocks/accumulator_main",
+    "north": "emertech:blocks/machine_side",
+    "south": "emertech:blocks/machine_side",
+    "west": "emertech:blocks/machine_side",
+    "east": "emertech:blocks/machine_side",
+    "down": "emertech:blocks/machine_side"
+  }
+}

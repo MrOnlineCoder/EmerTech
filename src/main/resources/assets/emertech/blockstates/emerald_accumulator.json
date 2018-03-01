@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "emertech:emerald_accumulator"
+    },
+    "inventory": {
+      "model": "emertech:emerald_accumulator"
+    }
+  }
+}

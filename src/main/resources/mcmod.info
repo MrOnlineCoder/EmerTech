@@ -1,0 +1,16 @@
+[
+{
+  "modid": "emertech",
+  "name": "Emerald Technologies",
+  "description": "Emerald-empowered devices and tools",
+  "version": "1.0.0",
+  "mcversion": "${mcversion}",
+  "url": "https://github.com/MrOnlineCoder",
+  "updateUrl": "",
+  "authorList": ["MrOnlineCoder"],
+  "credits": "",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]

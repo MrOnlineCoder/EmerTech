@@ -1,0 +1,10 @@
+{
+  "variants": {
+    "normal": {
+      "model": "emertech:emerald_ore_container"
+    },
+    "inventory": {
+      "model": "emertech:emerald_ore_container"
+    }
+  }
+}

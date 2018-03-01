@@ -1,0 +1,28 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GCG",
+    "LXH",
+    "GCG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "C": {
+      "item": "emertech:emerald_crystal_full"
+    },
+    "L": {
+      "item": "emertech:lower_ore_storage"
+    },
+    "H": {
+      "item": "emertech:higher_ore_storage"
+    },
+    "X": {
+      "item": "minecraft:chest"
+    }
+  },
+  "result": {
+    "item": "emertech:emerald_ore_container"
+  }
+}

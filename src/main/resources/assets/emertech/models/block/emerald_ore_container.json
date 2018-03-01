@@ -1,0 +1,12 @@
+{
+  "parent": "block/cube",
+  "textures": {
+    "particle": "emertech:blocks/machine_side",
+    "up": "emertech:blocks/container_up",
+    "north": "emertech:blocks/accumulator_main",
+    "south": "emertech:blocks/accumulator_main",
+    "west": "emertech:blocks/accumulator_main",
+    "east": "emertech:blocks/accumulator_main",
+    "down": "minecraft:blocks/planks_oak"
+  }
+}

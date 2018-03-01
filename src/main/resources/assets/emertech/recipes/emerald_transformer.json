@@ -1,0 +1,25 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "GFG",
+    "PCP",
+    "GFG"
+  ],
+  "key": {
+    "G": {
+      "item": "minecraft:glass"
+    },
+    "P": {
+      "item": "minecraft:iron_pickaxe"
+    },
+    "F": {
+      "item": "minecraft:flint"
+    },
+    "C": {
+      "item": "emertech:emerald_crystal_full"
+    }
+  },
+  "result": {
+    "item": "emertech:emerald_transformer"
+  }
+}
